@@ -4,6 +4,12 @@
            <title>My Portfolio</title>
      </head>
      <body>
+           <ul>
+               <li>HOME</li>
+               <li>About</li>
+               <li>Contact Me</li>
+           </ul>
+           
            <h1>PORTFOLIO</h1>
            <p>NAME : A RAMANARASIMHA</p>
            
