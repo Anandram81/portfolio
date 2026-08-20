@@ -5,7 +5,7 @@
      </head>
      <body>
            <ul>
-               <li>HOME</li>
+               <li><a href="">HOME</a></li>
                <li>About</li>
                <li>Contact Me</li>
            </ul>
